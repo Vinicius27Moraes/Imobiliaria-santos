@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+body{
+    font-family: Tahoma, sans-serif;
+     margin: 0;
+     padding: 0;
+     line-height: 2rem;
+}
+
+#all{
+    text-align: center;
+}
+
+#cabecalho{
+    background-color: rgba(0, 81, 255, 0.445);
+    padding-bottom: 20px;
+    text-decoration: underline;
+}
+
+nav a{
+    font-size: 18px;
+    margin: 8px;
+    text-decoration: none;
+}
+
+#banner{   
+    padding: 30px;
+    padding-top: 0px;
+    margin-top: 50px;
+}
+
+main{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#servicos{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgba(0, 81, 255, 0.445);
+}
+
+section ol{
+    width: 200px;
+}
+
+#corretores{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+span{
+    font-weight: bold;
+}
+
+#marcacao{
+    font-weight: none;
+    color: rgb(243, 229, 28);
+
+}
+
